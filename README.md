@@ -5,29 +5,29 @@ A Bank is on a massive digital transformation for increasing its revenue as well
 Technique used is as follows:
 
 *Data Cleaning
-    Imputation
-    Encoding
-      Nominal encoding
-      Ordinal encoding
-      Mean encoding
-    Transformation
-    Scaling
+    -Imputation
+    -Encoding
+       Nominal encoding
+       Ordinal encoding
+       Mean encoding
+    -Transformation
+    -Scaling
     
 *Feature selection
 
 *Feature Construction
 
 *Analysis
-    Statistical analysis 
-    Correlation analysis 
-    Family analysis
-    Region analysis
-    Insurance and account analysis
-    Loan and investment analysis
+    -Statistical analysis 
+    -Correlation analysis 
+    -Family analysis
+    -Region analysis
+    -Insurance and account analysis
+    -Loan and investment analysis
     
 *Model development
-    Logistic regression
-    Random forest
-    Svm
+    -Logistic regression
+    -Random forest
+    -Svm
     
 *Decile analysis
